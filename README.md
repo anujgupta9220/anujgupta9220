@@ -25,9 +25,9 @@ I am currently pursuing B.Tech in Computer Science Engineering from Shri Shankar
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-black?style=for-the-badge&logo=github)](https://github-readme-stats.vercel.app/api?username=anujgupta9220&show_icons=true&theme=radical)
+[![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-black?style=for-the-badge&logo=github)](https://github.com/anujgupta9220)
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujgupta9220&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=anujgupta9220&show_icons=true&theme=radical)
 
 ---
 
