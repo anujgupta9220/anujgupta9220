@@ -35,7 +35,7 @@ I am currently pursuing B.Tech in Computer Science Engineering from Shri Shankar
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=anujgupta9220&theme=radical)
+  <img src="https://streak-stats.demolab.com?user=anujgupta9220&theme=radical"/>
 </p>
 
 ---
