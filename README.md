@@ -35,20 +35,7 @@ I am currently pursuing B.Tech in Computer Science Engineering from Shri Shankar
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anujgupta9220">
-    <img src="https://github-readme-stats.vercel.app/api?username=anujgupta9220&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
-  </a>
-  <a href="https://github.com/anujgupta9220">
-    <img src="https://streak-stats.demolab.com?user=anujgupta9220&theme=radical&cache_seconds=1800" height="160"/>
-  </a>
-</p>
-
----
-
-## 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgupta9220&layout=compact&theme=radical&cache_seconds=1800"/>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=anujgupta9220&theme=radical)
 </p>
 
 ---
