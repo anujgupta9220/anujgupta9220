@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Anuj Prasad Gupta
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+MERN+Stack+Developer;CSE+Student;Passionate+Web+Developer" />
+</p>
+
+---
+
 ## 🙋‍♂️ About Me
 I am currently pursuing B.Tech in Computer Science Engineering from Shri Shankaracharya Technical Campus, Bhilai, and I am interested in Full MERN Stack Development and building web applications.
 
@@ -10,26 +16,45 @@ I am currently pursuing B.Tech in Computer Science Engineering from Shri Shankar
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Anujkumarg19142)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anujgupta9220@gmail.com)
 
-
 ---
 
 ## 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-black?style=for-the-badge&logo=github)](https://github.com/anujgupta9220)
 
-![](https://github-readme-stats.vercel.app/api?username=anujgupta9220&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/anujgupta9220">
+    <img src="https://github-readme-stats.vercel.app/api?username=anujgupta9220&show_icons=true&theme=radical" height="160"/>
+  </a>
+  <a href="https://github.com/anujgupta9220">
+    <img src="https://streak-stats.demolab.com?user=anujgupta9220&theme=radical" height="160"/>
+  </a>
+</p>
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=anujgupta9220&theme=radical)
+## 🚀 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgupta9220&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anujgupta9220&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
